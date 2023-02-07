@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\GB.задачи\bin\Debug\net6.0\GB.задачи.exe
+C:\Users\Александр\Desktop\GB.задачи\bin\Debug\net6.0\GB.задачи.deps.json
+C:\Users\Александр\Desktop\GB.задачи\bin\Debug\net6.0\GB.задачи.runtimeconfig.json
+C:\Users\Александр\Desktop\GB.задачи\bin\Debug\net6.0\GB.задачи.dll
+C:\Users\Александр\Desktop\GB.задачи\bin\Debug\net6.0\GB.задачи.pdb
+C:\Users\Александр\Desktop\GB.задачи\obj\Debug\net6.0\GB.задачи.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\GB.задачи\obj\Debug\net6.0\GB.задачи.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\GB.задачи\obj\Debug\net6.0\GB.задачи.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\GB.задачи\obj\Debug\net6.0\GB.задачи.AssemblyInfo.cs
+C:\Users\Александр\Desktop\GB.задачи\obj\Debug\net6.0\GB.задачи.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\GB.задачи\obj\Debug\net6.0\GB.задачи.dll
+C:\Users\Александр\Desktop\GB.задачи\obj\Debug\net6.0\refint\GB.задачи.dll
+C:\Users\Александр\Desktop\GB.задачи\obj\Debug\net6.0\GB.задачи.pdb
+C:\Users\Александр\Desktop\GB.задачи\obj\Debug\net6.0\GB.задачи.genruntimeconfig.cache
+C:\Users\Александр\Desktop\GB.задачи\obj\Debug\net6.0\ref\GB.задачи.dll
