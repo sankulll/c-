@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\GB.задачи\задача 21\bin\Debug\net6.0\задача 21.exe
+C:\Users\Александр\Desktop\GB.задачи\задача 21\bin\Debug\net6.0\задача 21.deps.json
+C:\Users\Александр\Desktop\GB.задачи\задача 21\bin\Debug\net6.0\задача 21.runtimeconfig.json
+C:\Users\Александр\Desktop\GB.задачи\задача 21\bin\Debug\net6.0\задача 21.dll
+C:\Users\Александр\Desktop\GB.задачи\задача 21\bin\Debug\net6.0\задача 21.pdb
+C:\Users\Александр\Desktop\GB.задачи\задача 21\obj\Debug\net6.0\задача 21.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\GB.задачи\задача 21\obj\Debug\net6.0\задача 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\GB.задачи\задача 21\obj\Debug\net6.0\задача 21.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\GB.задачи\задача 21\obj\Debug\net6.0\задача 21.AssemblyInfo.cs
+C:\Users\Александр\Desktop\GB.задачи\задача 21\obj\Debug\net6.0\задача 21.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\GB.задачи\задача 21\obj\Debug\net6.0\задача 21.dll
+C:\Users\Александр\Desktop\GB.задачи\задача 21\obj\Debug\net6.0\refint\задача 21.dll
+C:\Users\Александр\Desktop\GB.задачи\задача 21\obj\Debug\net6.0\задача 21.pdb
+C:\Users\Александр\Desktop\GB.задачи\задача 21\obj\Debug\net6.0\задача 21.genruntimeconfig.cache
+C:\Users\Александр\Desktop\GB.задачи\задача 21\obj\Debug\net6.0\ref\задача 21.dll
