@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\GB.задачи\задача 58\bin\Debug\net6.0\задача 58.exe
+C:\Users\Александр\Desktop\GB.задачи\задача 58\bin\Debug\net6.0\задача 58.deps.json
+C:\Users\Александр\Desktop\GB.задачи\задача 58\bin\Debug\net6.0\задача 58.runtimeconfig.json
+C:\Users\Александр\Desktop\GB.задачи\задача 58\bin\Debug\net6.0\задача 58.dll
+C:\Users\Александр\Desktop\GB.задачи\задача 58\bin\Debug\net6.0\задача 58.pdb
+C:\Users\Александр\Desktop\GB.задачи\задача 58\obj\Debug\net6.0\задача 58.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\GB.задачи\задача 58\obj\Debug\net6.0\задача 58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\GB.задачи\задача 58\obj\Debug\net6.0\задача 58.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\GB.задачи\задача 58\obj\Debug\net6.0\задача 58.AssemblyInfo.cs
+C:\Users\Александр\Desktop\GB.задачи\задача 58\obj\Debug\net6.0\задача 58.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\GB.задачи\задача 58\obj\Debug\net6.0\задача 58.dll
+C:\Users\Александр\Desktop\GB.задачи\задача 58\obj\Debug\net6.0\refint\задача 58.dll
+C:\Users\Александр\Desktop\GB.задачи\задача 58\obj\Debug\net6.0\задача 58.pdb
+C:\Users\Александр\Desktop\GB.задачи\задача 58\obj\Debug\net6.0\задача 58.genruntimeconfig.cache
+C:\Users\Александр\Desktop\GB.задачи\задача 58\obj\Debug\net6.0\ref\задача 58.dll
